@@ -4,5 +4,3 @@ AtliQ hardware is a company which delivers computer hardware & peripheral Manufa
 **Solution**
 Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
 
-**AIMS Grid
-**By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.

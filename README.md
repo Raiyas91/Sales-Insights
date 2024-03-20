@@ -4,5 +4,7 @@ Taking the sales data of AtliQ hardware, a company which delivers computer hardw
 **Solution**
 
 
-So we are built a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. 
+So we have built a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. 
+
+
 
